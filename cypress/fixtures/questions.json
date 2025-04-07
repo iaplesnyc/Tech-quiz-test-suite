@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "answers": [
+      { "text": "Hyper Text Markup Language", "isCorrect": true },
+      { "text": "Home Tool Markup Language", "isCorrect": false },
+      { "text": "Hyperlinks and Text Markup Language", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What does CSS stand for?",
+    "answers": [
+      { "text": "Computer Style Sheets", "isCorrect": false },
+      { "text": "Creative Style System", "isCorrect": false },
+      { "text": "Cascading Style Sheets", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Which language runs in a web browser?",
+    "answers": [
+      { "text": "Java", "isCorrect": false },
+      { "text": "C", "isCorrect": false },
+      { "text": "JavaScript", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "What year was JavaScript created?",
+    "answers": [
+      { "text": "1995", "isCorrect": true },
+      { "text": "2000", "isCorrect": false },
+      { "text": "1990", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What does API stand for?",
+    "answers": [
+      { "text": "Application Programming Interface", "isCorrect": true },
+      { "text": "Application Performance Insight", "isCorrect": false },
+      { "text": "Applied Programming Internet", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is a key feature of React?",
+    "answers": [
+      { "text": "Two-way binding", "isCorrect": false },
+      { "text": "Virtual DOM", "isCorrect": true },
+      { "text": "Compiled Templates", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What does `typeof null` return in JavaScript?",
+    "answers": [
+      { "text": "null", "isCorrect": false },
+      { "text": "object", "isCorrect": true },
+      { "text": "undefined", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which command initializes a new Node project?",
+    "answers": [
+      { "text": "node init", "isCorrect": false },
+      { "text": "npm start", "isCorrect": false },
+      { "text": "npm init", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Which tag is used to include JavaScript in HTML?",
+    "answers": [
+      { "text": "<js>", "isCorrect": false },
+      { "text": "<script>", "isCorrect": true },
+      { "text": "<javascript>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which array method adds a new element to the end?",
+    "answers": [
+      { "text": "push()", "isCorrect": true },
+      { "text": "pop()", "isCorrect": false },
+      { "text": "shift()", "isCorrect": false }
+    ]
+  }
+]
