@@ -82,7 +82,7 @@ THEN I can start a new quiz
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/tech-quiz-test-suite.git
+git clone https://github.com/iaplesnyc/Tech-quiz-test-suite
 cd tech-quiz-test-suite
 ```
 
