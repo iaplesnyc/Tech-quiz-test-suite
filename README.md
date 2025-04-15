@@ -6,7 +6,7 @@ This project is a **MERN stack Tech Quiz application** enhanced with **Cypress t
 
 ## 📹 Walkthrough Video
 
-🎥 [Click here to watch the walkthrough video](<https://app.screencastify.com/v3/watch/fmd92uLLzZ9oe8rnmiz4>)
+🎥 [Click here to watch the walkthrough video](<https://drive.google.com/file/d/1ddbaLM26KgMX_2Mz0Xxi6l8S5s-EFkot/view?usp=sharing>)
 
 The video demonstrates:
 
